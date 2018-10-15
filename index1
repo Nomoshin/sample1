@@ -1,0 +1,3 @@
+mkdir genome_mm10
+wget http://hgdownload.soe.ucsc.edu/goldenPath/mm10/chromosomes/chr17.fa.gz -O genome_mm10/chr17.fa.gz
+cat genome_mm10/*.fa > genome_mm10/mm10.fa
