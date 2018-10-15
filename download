@@ -1,0 +1,3 @@
+mkdir yasuharaken_data
+
+wgt ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR923/SRR923434/SRR923434.fastq.gz -O yasuharaken _data/SRR923434.fastq.gz
